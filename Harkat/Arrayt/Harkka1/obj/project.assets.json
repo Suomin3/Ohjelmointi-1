@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Koulu\\Koulutehtävät\\Arrayt\\Harkka1\\Harkka1.csproj",
+      "projectUniqueName": "E:\\Koulu\\Ohjelmointi_1\\Harkat\\Arrayt\\Harkka1\\Harkka1.csproj",
       "projectName": "Harkka1",
-      "projectPath": "E:\\Koulu\\Koulutehtävät\\Arrayt\\Harkka1\\Harkka1.csproj",
+      "projectPath": "E:\\Koulu\\Ohjelmointi_1\\Harkat\\Arrayt\\Harkka1\\Harkka1.csproj",
       "packagesPath": "C:\\Users\\suomi\\.nuget\\packages\\",
-      "outputPath": "E:\\Koulu\\Koulutehtävät\\Arrayt\\Harkka1\\obj\\",
+      "outputPath": "E:\\Koulu\\Ohjelmointi_1\\Harkat\\Arrayt\\Harkka1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\suomi\\AppData\\Roaming\\NuGet\\NuGet.Config"

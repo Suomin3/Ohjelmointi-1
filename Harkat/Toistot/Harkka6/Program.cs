@@ -1,7 +1,10 @@
 ﻿
-int[] nums = new int[];
+int[] nums = new int[100];
 
 for (int i = 0; i < nums.Length; i++)
 {
-    if (nums % 16 == 0);
+    if(i % 16 == 0)
+    {
+        Console.WriteLine(i);
+    }
 }

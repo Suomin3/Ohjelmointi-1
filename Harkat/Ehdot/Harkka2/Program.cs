@@ -11,5 +11,4 @@
 //     Console.WriteLine("Engine is not running.");
 //     engineOn = false;
 
-// !!! KOODI TOIMII !!! 
-// !!! KOMMENTOITU JOTTA VIHREILMOITUKSET OVAT POIS !!!
+// Koodi toimii. Kommentoitu, jotta virheilmoitukset ovat pois.
