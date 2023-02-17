@@ -1,0 +1,15 @@
+E:\Koulu\Koulutehtävät\Harkka1\bin\Debug\net7.0\Harkka1.exe
+E:\Koulu\Koulutehtävät\Harkka1\bin\Debug\net7.0\Harkka1.deps.json
+E:\Koulu\Koulutehtävät\Harkka1\bin\Debug\net7.0\Harkka1.runtimeconfig.json
+E:\Koulu\Koulutehtävät\Harkka1\bin\Debug\net7.0\Harkka1.dll
+E:\Koulu\Koulutehtävät\Harkka1\bin\Debug\net7.0\Harkka1.pdb
+E:\Koulu\Koulutehtävät\Harkka1\obj\Debug\net7.0\Harkka1.csproj.AssemblyReference.cache
+E:\Koulu\Koulutehtävät\Harkka1\obj\Debug\net7.0\Harkka1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Koulu\Koulutehtävät\Harkka1\obj\Debug\net7.0\Harkka1.AssemblyInfoInputs.cache
+E:\Koulu\Koulutehtävät\Harkka1\obj\Debug\net7.0\Harkka1.AssemblyInfo.cs
+E:\Koulu\Koulutehtävät\Harkka1\obj\Debug\net7.0\Harkka1.csproj.CoreCompileInputs.cache
+E:\Koulu\Koulutehtävät\Harkka1\obj\Debug\net7.0\Harkka1.dll
+E:\Koulu\Koulutehtävät\Harkka1\obj\Debug\net7.0\refint\Harkka1.dll
+E:\Koulu\Koulutehtävät\Harkka1\obj\Debug\net7.0\Harkka1.pdb
+E:\Koulu\Koulutehtävät\Harkka1\obj\Debug\net7.0\Harkka1.genruntimeconfig.cache
+E:\Koulu\Koulutehtävät\Harkka1\obj\Debug\net7.0\ref\Harkka1.dll
