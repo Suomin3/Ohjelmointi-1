@@ -1,27 +1,32 @@
-﻿string[] array = new string[3];
+﻿// '
+// Console.WriteLine("Kirjoita kolme sanaa: ");
 
-for(int i = 0; i < array.Length; i++)
-{
-    Console.WriteLine("Kirjoita sana: ");
-    array[i] = Console.ReadLine();
-}
+// string[] words = new string[3];
 
-Console.WriteLine(" ");
+// for (int i = 0; i < 3; i++)
+// {
+//     words[i] = Console.ReadLine();
+// }
 
-for(int i = 2; i < array.Length; i--)
-{
-    Console.WriteLine(array[i]);
-    if(i == 0) {
-        break;
-    }
-}
+// // Ensimmäinen vaihtoehto arrayn tulostamiselle:
 
-// for (int i = arr.Length - 1; i >= 0; i--)
-//     {
-//         string s = arr[i];
-//         Console.WriteLine(s);
-//     }
+// Array.Reverse(words);
 
-// Netistä kopioitu arrayn tulostaminen käänteisessä järjestyksessä.
+// for (int i = 0; i < 3; i++)
+// {
+//     Console.WriteLine(words[i]);
+// }
 
-// Array.Reverse(array); <-- C# funktio toimii myös
+// // // Toinen vaihtoehto arrayn tulostamiselle:
+
+// // for (int i = words.Length - 1; 1 < 3; i--)
+// // {
+// //     Console.WriteLine(words[i]);
+// // }
+
+// // Kolmas vaihtoehto arrayn tulostamiselle:
+
+// // for (int i = 2; i < 3; i--)
+// // {
+// //     Console.WriteLine(words[i]);
+// // }'

@@ -1,13 +1,13 @@
 ﻿
-Console.WriteLine("Kirjoita kolme sanaa: ");
-
 string[] words = new string[3];
 
 int i = 0;
 
 while (i < words.Length)
 {
-    words[i] = Console.ReadLine();
+    Console.WriteLine("Kirjoita sana: ");
+    string input = Console.ReadLine();
+    words[i] = input;
     i++;
 }
 
@@ -15,7 +15,7 @@ Array.Reverse(words);
 
 int j = 0;
 
-while (j < words.Length)
+while (j < 3)
 {
     Console.WriteLine(words[j]);
     j++;
