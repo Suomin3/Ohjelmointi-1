@@ -1,0 +1,15 @@
+D:\Koulu\Ohjelmointi\Omat_harkat\Harkka6\bin\Debug\net7.0\Harkka6.exe
+D:\Koulu\Ohjelmointi\Omat_harkat\Harkka6\bin\Debug\net7.0\Harkka6.deps.json
+D:\Koulu\Ohjelmointi\Omat_harkat\Harkka6\bin\Debug\net7.0\Harkka6.runtimeconfig.json
+D:\Koulu\Ohjelmointi\Omat_harkat\Harkka6\bin\Debug\net7.0\Harkka6.dll
+D:\Koulu\Ohjelmointi\Omat_harkat\Harkka6\bin\Debug\net7.0\Harkka6.pdb
+D:\Koulu\Ohjelmointi\Omat_harkat\Harkka6\obj\Debug\net7.0\Harkka6.csproj.AssemblyReference.cache
+D:\Koulu\Ohjelmointi\Omat_harkat\Harkka6\obj\Debug\net7.0\Harkka6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Koulu\Ohjelmointi\Omat_harkat\Harkka6\obj\Debug\net7.0\Harkka6.AssemblyInfoInputs.cache
+D:\Koulu\Ohjelmointi\Omat_harkat\Harkka6\obj\Debug\net7.0\Harkka6.AssemblyInfo.cs
+D:\Koulu\Ohjelmointi\Omat_harkat\Harkka6\obj\Debug\net7.0\Harkka6.csproj.CoreCompileInputs.cache
+D:\Koulu\Ohjelmointi\Omat_harkat\Harkka6\obj\Debug\net7.0\Harkka6.dll
+D:\Koulu\Ohjelmointi\Omat_harkat\Harkka6\obj\Debug\net7.0\refint\Harkka6.dll
+D:\Koulu\Ohjelmointi\Omat_harkat\Harkka6\obj\Debug\net7.0\Harkka6.pdb
+D:\Koulu\Ohjelmointi\Omat_harkat\Harkka6\obj\Debug\net7.0\Harkka6.genruntimeconfig.cache
+D:\Koulu\Ohjelmointi\Omat_harkat\Harkka6\obj\Debug\net7.0\ref\Harkka6.dll

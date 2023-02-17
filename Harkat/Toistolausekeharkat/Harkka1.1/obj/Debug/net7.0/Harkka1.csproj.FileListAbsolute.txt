@@ -1,0 +1,15 @@
+D:\Koulu\Ohjelmointi\Harkat\Toistolausekeharkat\Harkka1\bin\Debug\net7.0\Harkka1.exe
+D:\Koulu\Ohjelmointi\Harkat\Toistolausekeharkat\Harkka1\bin\Debug\net7.0\Harkka1.deps.json
+D:\Koulu\Ohjelmointi\Harkat\Toistolausekeharkat\Harkka1\bin\Debug\net7.0\Harkka1.runtimeconfig.json
+D:\Koulu\Ohjelmointi\Harkat\Toistolausekeharkat\Harkka1\bin\Debug\net7.0\Harkka1.dll
+D:\Koulu\Ohjelmointi\Harkat\Toistolausekeharkat\Harkka1\bin\Debug\net7.0\Harkka1.pdb
+D:\Koulu\Ohjelmointi\Harkat\Toistolausekeharkat\Harkka1\obj\Debug\net7.0\Harkka1.csproj.AssemblyReference.cache
+D:\Koulu\Ohjelmointi\Harkat\Toistolausekeharkat\Harkka1\obj\Debug\net7.0\Harkka1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Koulu\Ohjelmointi\Harkat\Toistolausekeharkat\Harkka1\obj\Debug\net7.0\Harkka1.AssemblyInfoInputs.cache
+D:\Koulu\Ohjelmointi\Harkat\Toistolausekeharkat\Harkka1\obj\Debug\net7.0\Harkka1.AssemblyInfo.cs
+D:\Koulu\Ohjelmointi\Harkat\Toistolausekeharkat\Harkka1\obj\Debug\net7.0\Harkka1.csproj.CoreCompileInputs.cache
+D:\Koulu\Ohjelmointi\Harkat\Toistolausekeharkat\Harkka1\obj\Debug\net7.0\Harkka1.dll
+D:\Koulu\Ohjelmointi\Harkat\Toistolausekeharkat\Harkka1\obj\Debug\net7.0\refint\Harkka1.dll
+D:\Koulu\Ohjelmointi\Harkat\Toistolausekeharkat\Harkka1\obj\Debug\net7.0\Harkka1.pdb
+D:\Koulu\Ohjelmointi\Harkat\Toistolausekeharkat\Harkka1\obj\Debug\net7.0\Harkka1.genruntimeconfig.cache
+D:\Koulu\Ohjelmointi\Harkat\Toistolausekeharkat\Harkka1\obj\Debug\net7.0\ref\Harkka1.dll
