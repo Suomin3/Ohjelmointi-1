@@ -1,5 +1,4 @@
-﻿Console.WriteLine("Hello, World!");
-
+﻿
 {
     int eka = 7;
     int toka = 3;
