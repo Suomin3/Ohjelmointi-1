@@ -5,9 +5,14 @@ string[] array = new string[10];
 
 for(int i = 0; i < array.Length; i++)
 {
-    array[i] = Console.ReadLine();
-    if(array[i] == "lopeta")
+    string input = Console.ReadLine();
+    array[i] = input;
+    if(input == "lopeta"){
+        Console.WriteLine("Tulostit " + i + " sanaa");
+        Console.WriteLine("Ensimmäinen sana: " + array[0]);
+        Console.WriteLine("Viimeinen sana: " + array[i-1]);
         break;
+    }
 }
-Console.WriteLine("Tulostit " + array.Length + " sanaa");
 Console.WriteLine("Ensimmäinen sana: " + array[0]);
+Console.WriteLine("Ensimmäinen sana: " + array[9]);

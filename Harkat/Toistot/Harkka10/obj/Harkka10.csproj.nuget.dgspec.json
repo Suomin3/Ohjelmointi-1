@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Koulu\\Ohjelmointi_1\\Harkat\\Toistot\\Harkka10\\Harkka10.csproj": {}
+    "D:\\Koulu\\Ohjelmointi1\\Harkat\\Toistot\\Harkka10\\Harkka10.csproj": {}
   },
   "projects": {
-    "E:\\Koulu\\Ohjelmointi_1\\Harkat\\Toistot\\Harkka10\\Harkka10.csproj": {
+    "D:\\Koulu\\Ohjelmointi1\\Harkat\\Toistot\\Harkka10\\Harkka10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Koulu\\Ohjelmointi_1\\Harkat\\Toistot\\Harkka10\\Harkka10.csproj",
+        "projectUniqueName": "D:\\Koulu\\Ohjelmointi1\\Harkat\\Toistot\\Harkka10\\Harkka10.csproj",
         "projectName": "Harkka10",
-        "projectPath": "E:\\Koulu\\Ohjelmointi_1\\Harkat\\Toistot\\Harkka10\\Harkka10.csproj",
+        "projectPath": "D:\\Koulu\\Ohjelmointi1\\Harkat\\Toistot\\Harkka10\\Harkka10.csproj",
         "packagesPath": "C:\\Users\\suomi\\.nuget\\packages\\",
-        "outputPath": "E:\\Koulu\\Ohjelmointi_1\\Harkat\\Toistot\\Harkka10\\obj\\",
+        "outputPath": "D:\\Koulu\\Ohjelmointi1\\Harkat\\Toistot\\Harkka10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\suomi\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
