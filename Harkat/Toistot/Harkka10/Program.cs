@@ -1,18 +1,20 @@
 ﻿
-Console.WriteLine("Kirjoita sanoja: ");
+Console.WriteLine("Enter 10 words or \"stop\" to exit: ");
 
 string[] array = new string[10];
 
-for(int i = 0; i < array.Length; i++)
+int i;
+
+for(i = 0; i < array.Length; i++)
 {
     string input = Console.ReadLine();
-    array[i] = input;
-    if(input == "lopeta"){
-        Console.WriteLine("Tulostit " + i + " sanaa");
-        Console.WriteLine("Ensimmäinen sana: " + array[0]);
-        Console.WriteLine("Viimeinen sana: " + array[i-1]);
+    Console.WriteLine("First word: " + array[0]);
+    Console.WriteLine("Last word: " + array[i-1]);
+    if(input == "stop"){
         break;
     }
+    array[i] = input;
 }
-Console.WriteLine("Ensimmäinen sana: " + array[0]);
-Console.WriteLine("Ensimmäinen sana: " + array[9]);
+
+Console.WriteLine("First word: " + array[0]);
+Console.WriteLine("Last word: " + array[i-1]);
