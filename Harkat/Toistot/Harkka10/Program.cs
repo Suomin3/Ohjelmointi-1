@@ -1,20 +1,28 @@
 ﻿
-Console.WriteLine("Enter 10 words or \"stop\" to exit: ");
+Console.WriteLine("Enter 10 words or type \"stop\" to exit: ");
 
 string[] array = new string[10];
 
-int i;
+string input;
+int count = 0;
 
-for(i = 0; i < array.Length; i++)
+for(count = 0; count < array.Length; count++)
 {
-    string input = Console.ReadLine();
-    Console.WriteLine("First word: " + array[0]);
-    Console.WriteLine("Last word: " + array[i-1]);
+    input = Console.ReadLine();
     if(input == "stop"){
         break;
     }
-    array[i] = input;
+    array[count] = input;
+}
+Console.WriteLine($"You've entered {count} words.");
+Console.WriteLine($"First word: {array[0]}");
+Console.WriteLine($"Last word: {array[count-1]}");
+
+int shortWord = array[0].Length;
+int longWord = array[0].Length;
+if(shortWord < array[0].Length){
+    
 }
 
-Console.WriteLine("First word: " + array[0]);
-Console.WriteLine("Last word: " + array[i-1]);
+Console.WriteLine("Shortest word: ");
+Console.WriteLine("Longest word: ");
