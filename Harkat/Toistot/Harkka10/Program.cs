@@ -18,26 +18,14 @@ Console.WriteLine($"You've entered {count} words.");
 Console.WriteLine($"First word: {array[0]}");
 Console.WriteLine($"Last word: {array[count-1]}");
 
-int shortWord = array[0].Length;
-int longWord = array[0].Length;
-if(shortWord < array[0].Length){
-    
+string shortWord = array[0];
+string longWord = array[0];
+foreach (string j in array){
+    if (shortWord.Length > j.Length)
+        shortWord = j;
+    if (longWord.Length < j.Length)
+        longWord = j;
 }
 
-Console.WriteLine("Shortest word: ");
-Console.WriteLine("Longest word: ");
-
-string[] array1 = { "Cats and ratsasdfasdf", "just rats and the just catest", "rats" };
-var shortString = array1[0];
-var longString = array1[0];
-
-foreach (var t in array1)
-{
-    if (shortString.Length > t.Length)
-        shortString = t;
-    if (longString.Length < t.Length)
-        longString = t;
-}
-Console.WriteLine("shortest string is:" + shortString);
-Console.WriteLine("Longest string is:" + longString);
-Console.Read();
+Console.WriteLine("Shortest word: " + shortWord);
+Console.WriteLine("Longest word: " + longWord);
