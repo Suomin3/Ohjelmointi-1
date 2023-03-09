@@ -26,3 +26,18 @@ if(shortWord < array[0].Length){
 
 Console.WriteLine("Shortest word: ");
 Console.WriteLine("Longest word: ");
+
+string[] array1 = { "Cats and ratsasdfasdf", "just rats and the just catest", "rats" };
+var shortString = array1[0];
+var longString = array1[0];
+
+foreach (var t in array1)
+{
+    if (shortString.Length > t.Length)
+        shortString = t;
+    if (longString.Length < t.Length)
+        longString = t;
+}
+Console.WriteLine("shortest string is:" + shortString);
+Console.WriteLine("Longest string is:" + longString);
+Console.Read();
